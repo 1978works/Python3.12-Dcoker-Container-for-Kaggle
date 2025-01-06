@@ -25,3 +25,6 @@ Python3.12_container  > .devcontainer
 ### VScodeでの作業
 VSCodeで、上でつくったPython3.12_containerというフォルダを開く。
 あとは自動的にVSCodeがうまいこと処理してくれる。
+
+その後は、`pip install requirements.txt`で、モジュールやライブラリなどをインストール。
+
